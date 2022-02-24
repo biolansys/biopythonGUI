@@ -1,6 +1,6 @@
 """
   BioPython GUI
-  JLG 31/12/2021
+  JLG 24/02/2022
  
 """
 import sys, os, time
